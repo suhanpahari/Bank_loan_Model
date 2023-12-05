@@ -1,4 +1,4 @@
-# Bank_loan_Model
+
 # Bank Loan Prediction Model using Machine Learning
 Welcome to the Bank Loan Prediction Model project! 💰📈 This project focuses on utilizing various machine learning models to predict loan approval outcomes for applicants. Whether you're a financial analyst or just curious about the factors influencing loan approvals, this project has you covered.
 
