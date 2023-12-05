@@ -16,7 +16,7 @@ User-Friendly Interface: The Python script provides an intuitive command-line in
 **Installation:** Clone this repository and install the required dependencies:
 
 
-*git clone https://github.com/your-username/bank-loan-prediction.git
+*git clone https://github.com/suhanpahari/bank-loan-prediction.git
 cd bank-loan-prediction
 pip install -r requirements.txt*
 Configuration: Open config.py and customize parameters such as dataset path and model selection.
